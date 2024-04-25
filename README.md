@@ -1,0 +1,2 @@
+# ArticelOfUniversity
+COMP
